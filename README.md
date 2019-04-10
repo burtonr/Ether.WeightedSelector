@@ -15,6 +15,9 @@ Check out the <a href="https://github.com/kinetiq/Ether.WeightedSelector/wiki/Ge
 Where can I get it?
 ==============
 
+**This is a fork of the original project to support .NET Core. This version is not currently published to NuGet**
+> The only changes were to the `csproj` and `sln` files, so you could safely ignore the warnings from the original, or build this version locally
+
 First, <a href="http://docs.nuget.org/docs/start-here/installing-nuget">install NuGet</a>. Then, install WeightedSelector.NET from the package manager console:
 
 >PM> Install-Package Ether.WeightedSelector 
